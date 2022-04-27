@@ -1,0 +1,18 @@
+.dc-searchBarButton {
+  border-top-left-radius: 0 !important;
+  border-bottom-left-radius: 0 !important;
+}
+
+.domain-checker-form {
+  max-width: 600px;
+}
+
+.dc-fail {
+  color: maroon;
+}
+.dc-success {
+  color: green;
+}
+.dc-result {
+  margin-top: 20px;
+}
