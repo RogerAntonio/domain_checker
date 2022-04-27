@@ -10,8 +10,8 @@
     }
   ],
   "keywords": [
-    "Copy",
-    "Clipboard"
+    "domains",
+    "domain checker"
   ],
   "type": "microweber-module",
   "target-dir": "domain_checker"

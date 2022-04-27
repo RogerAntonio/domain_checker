@@ -1,4 +1,4 @@
-# Copy to Clipboard
+# Domain availability checker
 
 A simple domain availability checker converted from [speedysense.com](https://speedysense.com/php-domain-availablity-checker-script).
 Mostly recommended for websites that tend to sell domain registrations.
