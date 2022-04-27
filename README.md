@@ -10,7 +10,7 @@ Mostly recommended for websites that tend to sell domain registrations.
 2.  **Method 2**
     Download the latest version here.
     Unzip the file you downloaded.
-    Drop the "domain-checker" folder into your website's module folder
+    Drop the "domain_checker" folder into your website's module folder
 
 ## Usage
 
