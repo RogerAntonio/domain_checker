@@ -2,6 +2,7 @@
 
 A simple domain availability checker converted from [speedysense.com](https://speedysense.com/php-domain-availablity-checker-script).
 Mostly recommended for websites that tend to sell domain registrations.
+Now provides a link to WHOIS.com for more information about the domain.
 
 ## Installation
 

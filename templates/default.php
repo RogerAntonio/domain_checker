@@ -38,8 +38,11 @@ if (isset($_GET['domain'])) {
   $domain = $_GET['domain'];
   if (gethostbyname($domain) != $domain) {
     print("<h5 class='dc-result dc-fail'>");
-    _e('This domain is unavailable.');
+    _e('This domain is unavailable. ');
     print("</h5>");
+    print("<a href='https://www.whois.com/whois/" . $_GET['domain'] . "' target='_blank'>");
+    _e('Click here for more information.');
+    print("</a>");
   } else {
     print("<h5 class='dc-result dc-success'>");
     _e('This domain is available! Contact us to register it.');
